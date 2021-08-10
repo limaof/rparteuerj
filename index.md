@@ -1,3 +1,8 @@
+layout: default
+title: Home
+description: site da Residência Pedagógica Artes UERJ
+_ _ _
+
 <link href="css/style.css" rel="stylesheet">
 
 
