@@ -9,7 +9,9 @@ __________________
 
 ## Sobre
 
-O Instituto de artes e o programa de RP
+**O Instituto de artes e o programa de RP**
+
+_____
 
 O Programa de Residência Pedagógica é uma das ações que integram a Política Nacional de Formação de Professores e tem por objetivo induzir o aperfeiçoamento da formação prática nos cursos de licenciatura, promovendo a imersão do licenciando na escola de educação básica, a partir da segunda metade de seu curso. 
 
@@ -17,17 +19,13 @@ O Instituto de Artes da UERJ participa pela primeira vez do Programa de Residên
 
 ## Eventos
 
-##Escolas-campo
-___
+## Escolas-campo
 
-* Rangel Pestana
-___
-* CAP-UERJ
-___
-* Roberto Silveira
-___
+As escolas-campo são escolas públicas de educação básica habilitadas pela Secretaria de Educação ou órgão equivalente e selecionada pelo Instituto de artes da UERJ para participar do projeto institucional de residência pedagógica. Contamos com a participação de 3 professores preceptores das 3 escolas-campo que participam do programa, são elas: 
 
-As escolas-campo são escolas públicas de educação básica habilitadas pela Secretaria de Educação ou órgão equivalente e selecionada pelo Instituto de artes da UERJ para participar do projeto institucional de residência pedagógica. Contamos com a participação de 3 professores preceptores das 3 escolas-campo que participam do programa, são elas: Instituto de Aplicação Fernando Rodrigues da Silveira (CAP-UERJ), Escola Municipal Governador Roberto Silveira e Instituto de Educação Rangel Pestana.
+* Instituto de Aplicação Fernando Rodrigues da Silveira (CAP-UERJ);
+* Escola Municipal Governador Roberto Silveira;
+*  Instituto de Educação Rangel Pestana**.
 
 ## Contato
 
