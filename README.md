@@ -1,11 +1,8 @@
 <link href="css/style.css" rel="stylesheet">
-___________________
+
 
 <!--ts-->
-# Home
-   * [**# Sobre**](#sobre)
-   * [**# Youtube**](#youtube)
-   * [**# Contato**](#contato) 
+   * [**# Sobre**](#sobre) * [**# Youtube**](#youtube) * [**# Contato**](#contato) 
 <!--te-->
 
 __________________
