@@ -1,5 +1,9 @@
 <link href="css/style.css" rel="stylesheet">
-
+- - - 
+layout: page
+title: About
+permalink: /about/
+- - - 
 
 <!--ts-->
    [**Sobre**](#sobre)  [**Youtube**](#youtube)  [**Contato**](#contato)
