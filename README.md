@@ -1,4 +1,14 @@
 <link href="css/style.css" rel="stylesheet">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Document</title>
+</head>
+<body>
+<div class="container">
+<div class="box">
+
 
 ## Canal do Youtube
 **Ciclo de conversas sobre formação docente em artes visuais Pibid Residência Pedagógica do IART-UERJ**
@@ -20,4 +30,7 @@
 
 ## Contato
 
-
+</div>
+</div>
+</body>
+</html>
