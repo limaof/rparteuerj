@@ -2,7 +2,7 @@
 
 <!--ts-->
    * [Sobre](#sobre)
-   * [Youtube](#Canaldoyoutube)
+   * [Youtube](#youtube)
    * [Contato](#contato) 
 <!--te-->
 
