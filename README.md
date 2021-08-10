@@ -4,15 +4,13 @@
 <!--ts-->
    [**Sobre**](#sobre)   [**Eventos**](#eventos)   [**Escolas-campo**](#escolas-campo)   [**Contato**](#contato)   [**Youtube**](#youtube)
 <!--te-->
-
-[222](https://github.com/limaof/rparteuerj/issues/1#issue-965506048)
 __________________
 
 ## Sobre
 
 ____
 
-**O Instituto de artes e o programa de RP**
+### **O Instituto de artes e o programa de RP**
 
 _____
 
