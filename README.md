@@ -1,18 +1,12 @@
 <link href="css/style.css" rel="stylesheet">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Document</title>
-</head>
-<body>
+
 <div class="container">
-<div class="box">
+
 
 
 ## Canal do Youtube
 **Ciclo de conversas sobre formação docente em artes visuais Pibid Residência Pedagógica do IART-UERJ**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RuIP_oIRRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video.container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RuIP_oIRRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 **1 º Ciclo de conversas sobre formação docente em artes visuais: Pibid e RP 23 03/UERJ - IART**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7A8HwcuO1Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **1º Ciclo de Conversas de Formação Docente em Artes Visuais PIBIB-Residência Pedagógica do IART- UERJ**
@@ -24,13 +18,8 @@
 **Encontro Geral do Programa de Residência Pedagógica IART-UERJ 2020 30 11 2020**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oc6RhMhApV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
 ## Quem somos
 
 ## Contato
 
-</div>
-</div>
-</body>
-</html>
+
