@@ -2,7 +2,7 @@
 
 
 <!--ts-->
-   [**Sobre**](#sobre)   [**Eventos**](#eventos)   [**Escolas-campo**](#escolas-campo)   [**Contato**](#contato)   # [Youtube](./youtube.md)
+   [**Sobre**](#sobre)   [**Eventos**](#eventos)   [**Escolas-campo**](#escolas-campo)   [**Contato**](#contato)   [**Youtube**](./youtube.md)
 <!--te-->
 
 ____
