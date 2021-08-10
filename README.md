@@ -23,7 +23,16 @@ Ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin. Tr
 
 Sit amet commodo nulla facilisi. Urna molestie at elementum eu facilisis sed odio. Mollis nunc sed id semper risus. Arcu ac tortor dignissim convallis aenean et tortor at. Pulvinar pellentesque habitant morbi tristique senectus et. Tempor orci dapibus ultrices in iaculis nunc sed augue. Id faucibus nisl tincidunt eget nullam non. Lacinia at quis risus sed vulputate odio. Sit amet justo donec enim diam vulputate. Euismod lacinia at quis risus sed vulputate odio. Sem fringilla ut morbi tincidunt augue interdum velit. Dui id ornare arcu odio. Vulputate eu scelerisque felis imperdiet proin. Id interdum velit laoreet id donec ultrices tincidunt. Egestas diam in arcu cursus euismod quis viverra nibh cras. Id porta nibh venenatis cras sed felis. Lectus magna fringilla urna porttitor rhoncus dolor purus non.
 
-## Youtube
+## Eventos
+
+## Escolas-campo
+
+## Contato
+
+**Entre em contato por e-mail**
+[E-mail](mailto:udtlea.rp@gmail.com)
+
+### Youtube
 
 **Ciclo de conversas sobre formação docente em artes visuais Pibid Residência Pedagógica do IART-UERJ**
 <div class="video.container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RuIP_oIRRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -37,9 +46,4 @@ Sit amet commodo nulla facilisi. Urna molestie at elementum eu facilisis sed odi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQRwBkPGbIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 **Encontro Geral do Programa de Residência Pedagógica IART-UERJ 2020 30 11 2020**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oc6RhMhApV4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Contato
-
-**Entre em contato por e-mail**
-[E-mail](mailto:udtlea.rp@gmail.com)
 
