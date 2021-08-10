@@ -20,5 +20,6 @@
 ## Quem somos
 
 ## Contato
-
+**Entre em contato por e-mail**
+[E-mail](mailto:udtlea.rp@gmail.com)
 
