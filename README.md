@@ -1,3 +1,4 @@
+<link href="css/style.css" rel="stylesheet">
 # Residência Pedagógica Arte UERJ
 **Site da residência pedagógica da UERJ 2020-2022**
 
