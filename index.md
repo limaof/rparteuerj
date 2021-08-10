@@ -1,4 +1,31 @@
+<!DOCTYPE html>
+
 <link href="./style.css" rel="stylesheet">
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Horizontal</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <nav id="menu-h">
+        <ul>
+            <li><a href="./">Home</a></li>
+
+            <li><a href="#sobre">Sobre</a></li>
+            
+            <li><a href="#Eventos">Eventos</a></li>
+            
+            <li><a href="#escolas-campo">Escolas-campo</a></li>
+            
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
 
 
 <!--ts-->
@@ -42,5 +69,9 @@ As escolas-campo são escolas públicas de educação básica habilitadas pela S
 
 **Ciclo de conversas sobre formação docente em artes visuais Pibid Residência Pedagógica do IART-UERJ**
 <div class="video-container"> <iframe width="560" height="315" src="https://www.youtube.com/embed/RuIP_oIRRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+   
+   </body>
+
+</html>
 
 
