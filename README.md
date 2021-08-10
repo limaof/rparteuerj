@@ -1,10 +1,11 @@
 <link href="css/style.css" rel="stylesheet">
 
 <!--ts-->
-   * [Sobre](#sobre)
-   * [Youtube](#youtube)
-   * [Contato](#contato) 
+   * [**Sobre**](#sobre)
+   * [**Youtube**](#youtube)
+   * [**Contato**](#contato) 
 <!--te-->
+___
 
 ## Sobre
 
