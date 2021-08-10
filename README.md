@@ -22,11 +22,18 @@ Sit amet commodo nulla facilisi. Urna molestie at elementum eu facilisis sed odi
 ## Eventos
 
 ## Escolas-campo
+___
+#### Rangel Pestana
+___
+#### CAP-UERJ
+___
+#### Roberto Silveira
+___
 
 ## Contato
 
 **Entre em contato por e-mail**
-[E-mail](mailto:udtlea.rp@gmail.com)
+[*udtlea.rp@gmail.com*](mailto:udtlea.rp@gmail.com)
 
 ### Youtube
 
