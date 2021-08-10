@@ -1,10 +1,9 @@
 <link href="css/style.css" rel="stylesheet">
 
-<div class="container">
-
-
+## O que é o Programa de Residência pedagógica?
 
 ## Canal do Youtube
+
 **Ciclo de conversas sobre formação docente em artes visuais Pibid Residência Pedagógica do IART-UERJ**
 <div class="video.container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RuIP_oIRRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 **1 º Ciclo de conversas sobre formação docente em artes visuais: Pibid e RP 23 03/UERJ - IART**
