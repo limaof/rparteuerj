@@ -1,6 +1,4 @@
 <link href="css/style.css" rel="stylesheet">
-# Residência Pedagógica Arte UERJ
-**Site da residência pedagógica da UERJ 2020-2022**
 
 ## Canal do Youtube
 **Ciclo de conversas sobre formação docente em artes visuais Pibid Residência Pedagógica do IART-UERJ**
