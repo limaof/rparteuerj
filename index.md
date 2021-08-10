@@ -6,11 +6,11 @@
 <!--te-->
 __________________
 
-## **Sobre**
+## Sobre
 
 ____
 
-### **O Instituto de artes e o programa de RP**
+### O Instituto de artes e o programa de RP
 
 _____
 
