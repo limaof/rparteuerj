@@ -30,13 +30,13 @@
 }
 
 #menu-h ul li a:hover {
-    background-color: rgb(24, 139, 233);
+    background-color: rgb(21, 90, 149);
     border-radius: 30px;
 }
 
 #menu-h ul li:last-child a {
     float: right;
-    background-color: rgb(24, 139, 233);
+    background-color: rgb(21, 90, 149);
     border-radius: 30px;
 }
 
