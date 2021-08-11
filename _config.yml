@@ -1,14 +1,10 @@
 title: Residência Pedagógia Artes UERJ
 description:
-docs_list_title: AMenu
-docs:
-
-- title: home
-  url: index.html
-
-- title: Youtube
-  url: youtube.html
-
 show_downloads: false
+title: home
+url: index.html
+title: Youtube
+url: youtube.html
+
 theme: jekyll-theme-cayman
 plugins: add-jekyll-menus 
