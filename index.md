@@ -2,24 +2,6 @@
 <html lang="pt-br">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="stylesheet" href="./style.css">
-
-
-    <nav id="menu-h">
-        <ul>
-            <li><a href="./">Home</a></li>
-
-            <li><a href="#obre">Sobre</a></li>
-            
-            <li><a href="#eventos">Eventos</a></li>
-            
-            <li><a href="#escolas-campo">Escolas-campo</a></li>
-            
-            <li><a href="#contato">Contato</a></li>
-        </ul>
-    </nav>
-
-
 
 <!--ts-->
    [**Sobre**](#sobre)   [**Eventos**](#eventos)   [**Escolas-campo**](#escolas-campo)   [**Contato**](#contato)   [**Youtube**](./youtube.md)
