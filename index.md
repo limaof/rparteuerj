@@ -1,29 +1,21 @@
 <link href="./style.css" rel="stylesheet">
 <meta charset="UTF-8">
 
-      
-     
-      
-
-<!--ts-->
-      [**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](#escolas-campo) | [**Contato**](#contato) | [**Youtube**](./youtube.md)
-<!--te-->
-
 <nav id="menu-h">
         <ul>
             <li>
-                <a href="https://satellasoft.com">
+                <a href="./home">
                     Home
                 </a>
             </li>
 
             <li><a href="https://academy.satellasoft.com">Sobre</a></li>
             
-            <li><a href="#">Quem Somos</a></li>
+            <li><a href="#">Eventos</a></li>
+            
+            <li><a href="#">Escolas-campo</a></li>
             
             <li><a href="#">Contato</a></li>
-            
-            <li><a href="#">Entrar</a></li>
         </ul>
     </nav>
 ____
