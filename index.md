@@ -3,10 +3,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-   <nav> <a href="https://satellasoft.com">Home</a> <a href="https://satellasoft.com">Contato</a> </nav>
 <!--ts-->
-      
-   [**Sobre**](#sobre)   [**Eventos**](#eventos)   [**Escolas-campo**](#escolas-campo)   [**Contato**](#contato)   [**Youtube**](./youtube.md)
+      [**Sobre**](#sobre)   |   [**Eventos**](#eventos)  |  [**Escolas-campo**](#escolas-campo)  |  [**Contato**](#contato)  |  [**Youtube**](./youtube.md)
 <!--te-->
 ____
 
