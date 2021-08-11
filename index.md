@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <link href="./style.css" rel="stylesheet">
 <html lang="pt-br">
 <meta charset="UTF-8">
@@ -12,9 +10,9 @@
         <ul>
             <li><a href="./">Home</a></li>
 
-            <li><a href="#sobre">Sobre</a></li>
+            <li><a href="#obre">Sobre</a></li>
             
-            <li><a href="#Eventos">Eventos</a></li>
+            <li><a href="#eventos">Eventos</a></li>
             
             <li><a href="#escolas-campo">Escolas-campo</a></li>
             
