@@ -1,10 +1,13 @@
 <link href="./style.css" rel="stylesheet">
-<html lang="pt-br">
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      
+     
+      
 
 <!--ts-->
-      [**Sobre**](#sobre)   |   [**Eventos**](#eventos)  |  [**Escolas-campo**](#escolas-campo)  |  [**Contato**](#contato)  |  [**Youtube**](./youtube.md)
+      [**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](#escolas-campo) | [**Contato**](#contato) | [**Youtube**](./youtube.md)
+      --------------------
 <!--te-->
 ____
 
