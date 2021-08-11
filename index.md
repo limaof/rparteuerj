@@ -19,7 +19,7 @@
         </ul>
     </nav>
     
-[**Sobre**](#sobre) | [**Eventos**](#eventos)
+[**Sobre**](#sobre) | [**Eventos**](#eventos) | # Escolas-campo(#escolas-campo) | [**Contato**](#contato) | [Youtube](./youtube) 
 ____
 
 ## Sobre
