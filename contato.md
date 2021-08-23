@@ -2,12 +2,8 @@
 <meta charset="UTF-8">
 
 [**Sobre**](./index) | [**Eventos**](#eventos) | [**Escolas-campo**](./escolascampo) | [**Contato**](./contato) | [**Youtube**](./youtube) 
-
-
-
+-----
 # Contato
-
-
 Entre em contato por e-mail [**udtlea.rp@gmail.com**](mailto:udtlead@gmail.com)
 ___
 
