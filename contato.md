@@ -3,11 +3,10 @@
 
 [**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](./escolascampo) | [**Contato**](./contato) | [**Youtube**](./youtube) 
 
-___
+
 
 # Contato
 
-___
 
 Entre em contato por e-mail [**udtlea.rp@gmail.com**](mailto:udtlead@gmail.com)
 ___
