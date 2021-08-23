@@ -1,7 +1,7 @@
 <link href="./style.css" rel="stylesheet">
 <meta charset="UTF-8">
 
-[**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](./escolascampo) | [**Contato**](./contato) | [**Youtube**](./youtube) 
+[**Sobre**](./index) | [**Eventos**](#eventos) | [**Escolas-campo**](./escolascampo) | [**Contato**](./contato) | [**Youtube**](./youtube) 
 
 
 
