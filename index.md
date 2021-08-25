@@ -22,6 +22,9 @@ ____
 ## Eventos
 ____
 
+Em breve os eventos da residência pedagógica estarão listados aqui.
+____
+
 ## Escolas-campo
 ____
 
