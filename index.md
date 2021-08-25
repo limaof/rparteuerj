@@ -1,7 +1,7 @@
 <link href="./style.css" rel="stylesheet">
 <meta charset="UTF-8">
 
-[**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](./escolascampo) | [**Contato**](./contato) | [**Youtube**](./youtube) 
+[**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](#escolascampo) | [**Contato**](#contato) | [**Youtube**](#youtube) 
 
 ____
 
@@ -9,7 +9,7 @@ ____
 
 ____
 
-### O Instituto de artes e o programa de RP
+**O Instituto de artes e o programa de RP**
 
 _____
 
@@ -30,6 +30,19 @@ As escolas-campo são escolas públicas de educação básica habilitadas pela S
 * Instituto de Aplicação Fernando Rodrigues da Silveira (CAP-UERJ);
 * Escola Municipal Governador Roberto Silveira;
 * Instituto de Educação Rangel Pestana.
+
+____
+
+## Contato
+Entre em contato por e-mail [**udtlea.rp@gmail.com**](mailto:udtlead@gmail.com)
+
+----
+
+## Youtube
+
+Ciclo de conversas sobre formação docente em artes visuais Pibid Residência Pedagógica do IART-UERJ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RuIP_oIRRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 
 
    
