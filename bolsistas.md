@@ -9,26 +9,80 @@ ____
 
 ____
 
+**Ana Gabriela**
+
+____
+
+**Arora**
+
+____
+
+**Bharbara Sally**
+
+____
+
+**Bruna Ignacio**
+
+____
+
+**Caio Couto**
+
+____
+
+**Clara Ponciano**
+
+____
+
+**Ericka**
+
+____
+
 **Felipe Moreira Coutinho**
 
-_____
+____
 
-**Veronica Folla**
+**Gabriel Rufino**
+
+____
+
+**Gabrielly Carvalho**
+
+____
+
+**Giselle Magioli**
+
+____
+
+**Jordana Menezes**
+
+____
+
+**Mariana**
 
 ____
 
 **Rafaele Ramos**
 
-___
+____
 
-**Giselle Magioli**
+**Renan Rodrigues**
 
-___
+____
 
-**Gabriel Rufino**
+**Rosaria** 
 
-___
+____
 
-**Gabrielly Carvalho**
+**Thayna**
 
-___
+____
+
+**Veronica Folla**
+
+____
+
+**Veronica Maia**
+
+____
+
+**Yuri**
