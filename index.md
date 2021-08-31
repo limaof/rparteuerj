@@ -24,7 +24,7 @@ ____
 
 CICLO DE CONVERSA E FORMAÇÃO DOCENTE EM ARTES VISUAIS
 
-[Seminário da RP e PIBID](https://sites.google.com/view/residenciapedagogica/eventos/ii-encontro-pibidrp-rj)
+[**Seminário da RP e PIBID**](https://sites.google.com/view/residenciapedagogica/eventos/ii-encontro-pibidrp-rj)
 
 
 Em breve os eventos da residência pedagógica estarão listados aqui.
@@ -41,9 +41,9 @@ ____
 
 As escolas-campo são escolas públicas de educação básica habilitadas pela Secretaria de Educação ou órgão equivalente e selecionada pelo Instituto de artes da UERJ para participar do projeto institucional de residência pedagógica. Contamos com a participação de 3 professores preceptores das 3 escolas-campo que participam do programa, são elas: 
 
-* [Instituto de Aplicação Fernando Rodrigues da Silveira(CAP-UERJ)](https://www.cap.uerj.br/site/);
-* [Escola Municipal Governador Roberto Silveira](https://www.escol.as/179696-escola-municipal-governador-roberto-silveira);
-* [Instituto de Educação Rangel Pestana](https://ierangelpestana.blogspot.com/).
+* [**Instituto de Aplicação Fernando Rodrigues da Silveira(CAP-UERJ)**](https://www.cap.uerj.br/site/);
+* [**Escola Municipal Governador Roberto Silveira**](https://www.escol.as/179696-escola-municipal-governador-roberto-silveira);
+* [**Instituto de Educação Rangel Pestana**](https://ierangelpestana.blogspot.com/).
 
 ____
 
