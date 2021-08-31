@@ -22,7 +22,7 @@ ____
 ## Eventos
 ____
 
-CICLO DE CONVERSA E FORMAÇÃO DOCENTE EM ARTES VISUAIS
+**Ciclo de conversa e formação docente em Artes Visuais)**
 
 [**Seminário da RP e PIBID**](https://sites.google.com/view/residenciapedagogica/eventos/ii-encontro-pibidrp-rj)
 
