@@ -24,8 +24,8 @@ ____
 
 CICLO DE CONVERSA E FORMAÇÃO DOCENTE EM ARTES VISUAIS
 
-Seminário da RP e PIBID
-Link:
+[Seminário da RP e PIBID](https://sites.google.com/view/residenciapedagogica/eventos/ii-encontro-pibidrp-rj)
+
 
 Em breve os eventos da residência pedagógica estarão listados aqui.
 
