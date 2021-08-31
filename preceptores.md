@@ -1,7 +1,7 @@
 <link href="./style.css" rel="stylesheet">
 <meta charset="UTF-8">
 
-[**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](#escolas-campo) | [**Contato**](#contato) | [**Youtube**](#youtube) | [**Preceptores**](./preceptores) | **Bolsistas**
+[**Sobre**](./index/#sobre) | [**Eventos**](./index/#eventos) | [**Escolas-campo**](#escolas-campo) | [**Contato**](#contato) | [**Youtube**](#youtube) | [**Preceptores**](./preceptores) | **Bolsistas**
 
 ____
 
