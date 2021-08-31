@@ -22,7 +22,18 @@ ____
 ## Eventos
 ____
 
+CICLO DE CONVERSAR E FORMAÇÃO DOCENTE EM ARTES VISUAIS
+
+Seminário da RP e PIBID
+Link:
+
 Em breve os eventos da residência pedagógica estarão listados aqui.
+
+## Youtube
+
+Ciclo de conversas sobre formação docente em artes visuais Pibid Residência Pedagógica do IART-UERJ
+<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RuIP_oIRRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
 ____
 
 ## Escolas-campo
@@ -40,12 +51,6 @@ ____
 Entre em contato por e-mail [**udtlea.rp@gmail.com**](mailto:udtlead@gmail.com)
 
 ----
-
-## Youtube
-
-Ciclo de conversas sobre formação docente em artes visuais Pibid Residência Pedagógica do IART-UERJ
-<div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/RuIP_oIRRd4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 
 
    
