@@ -3,7 +3,7 @@
 
 | [**Home**](./) |
 
-[**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](#escolas-campo) | [**Contato**](#contato) | [**Orientadoras**](./orientadoras) | [**Preceptores**](./preceptores) | [**Bolsistas**](./bolsistas)
+[**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](#escolas-campo) | [**Contato**](#contato) | [**Docentes Orientadoras**](./orientadoras) | [**Preceptores**](./preceptores) | [**Bolsistas**](./bolsistas)
 
 ____
 
