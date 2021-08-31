@@ -18,6 +18,7 @@ _____
 ____
 
 **Rafaele Ramos**
+
 ___
 
 **Giselle Magioli**
@@ -25,3 +26,9 @@ ___
 ___
 
 **Gabriel Rufino**
+
+___
+
+**Gabrielly Carvalho**
+
+___
