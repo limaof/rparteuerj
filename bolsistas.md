@@ -25,9 +25,10 @@ ____
 
 **Bruna Ignacio Fournier de Noronha**
 
+[Link para o lattes:](http://lattes.cnpq.br/0742540740056527) 
 Graduanda de licenciatura em Artes Visuais pela Universidade do Estado do Rio de Janeiro (UERJ). Participa como bolsista do projeto Jogos de Temporalidades Inconciliáveis na Educação básica e como voluntária no programa de residência pedagógica, participou como bolsista do projeto Cerâmica Viva (UERJ) e faz parte do Coletivo Identidade Visual. 
 Contato: brunaifn@gmail.com / @bruna_ifn 
-Link para o lattes:  http://lattes.cnpq.br/0742540740056527 
+
 
 ____
 
@@ -50,7 +51,7 @@ ____
 
 **Gabrielly Rodrigues de Carvalho** 
 
-Link para o Lattes: http://lattes.cnpq.br/0642842396988810
+[Link para o Lattes:](http://lattes.cnpq.br/0642842396988810)
 Gabrielly Carvalho é estudante no curso de licenciatura em Artes Visuais pela UERJ desde 2018. Nascida no litoral norte do estado, sua maior inspiração veio dos professores que teve em conjunto com suas maiores paixões, a ilustração infantil e as histórias em quadrinhos. Participou do Programa Institucional de Bolsas de Iniciação à Docência como bolsista, confirmando seu interesse em atuar na sala de aula e entrando em sequência no Programa de Residência Pedagógica.
 Contato: gabyrdecarvalho@gmail.com
 
@@ -66,7 +67,7 @@ ____
 
 **Thayse da Conceição Fernandes de Souza**
 
-Link para o Capes: < http://lattes.cnpq.br/7216534718959315 >
+[Link para o Capes:](http://lattes.cnpq.br/7216534718959315)
 Estudante do curso de Artes Visuais na UERJ, em formação como arte-educadora. Experiência com artes plásticas desde 2007, utilizando suportes como telas, papel e outros materiais. Atualmente, desenvolve escritas poéticas e pesquisas relacionais a partir do encontro entre arte, educação, identidade, além de representação das memórias e emoções pessoais que constroem esse caminho.
 Contato: esyaht.fernande@gmail.com / (21) 99518-9242
 
