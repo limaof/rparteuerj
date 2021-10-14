@@ -1,9 +1,7 @@
 <link href="./style.css" rel="stylesheet">
 <meta charset="UTF-8">
 
-| [**Home**](./) |
-
-[**Sobre**](#sobre) | [**Eventos**](#eventos) | [**Escolas-campo**](#escolas-campo) | [**Contato**](#contato) | [**Docentes Orientadoras**](./orientadoras) | [**Preceptores**](./preceptores) | [**Bolsistas**](./bolsistas)
+| [**Home**](./) | [**Sobre**](#sobre) | [**Eventos**](#eventos)| [**Docentes Orientadoras**](./orientadoras) | [**Preceptores**](./preceptores) | [**Bolsistas**](./bolsistas)
 
 ____
 
