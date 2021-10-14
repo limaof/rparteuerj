@@ -98,6 +98,7 @@ ____
 **Felipe Moreira Coutinho**
 
 [Link para Lattes](http://lattes.cnpq.br/8816358054798213)
+
 Nascido no Rio de Janeiro, Felipe Coutinho é ilustrador e estudante de Artes Visuais – Licenciatura da Universidade do Estado do Rio de Janeiro (UERJ). Foi bolsista do PIBID Artes visuais 2018-2020 e atualmente é bolsista do Programa de residencia pedagógica 2020-2022.
 Contato: coutinhof@tutanota.com 
 
